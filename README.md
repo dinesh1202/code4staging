@@ -15,3 +15,5 @@ the tfstate file
 Here I have utilized the s3 remote backend type from AWS provider along with dynamodb loking system to lock the tfstate file if multiple
 users are accessing the code same time.
 
+Note:- We can add the VPC's as per the environments the instance will be launched in respective VPC as per the environment.
+
