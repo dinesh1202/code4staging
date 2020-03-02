@@ -1,6 +1,5 @@
 # code4staging
-The code is to launch multiple ec2 instances in different environments with different AMI image as per the regions and as per the instance-
-type
+*** The code is to launch multiple ec2 instances in different environments with different AMI image as per the regions and as per the instance-type ***
 
 we have 3 different files here,
 1.Map-ec2-type-region.tf  - 
