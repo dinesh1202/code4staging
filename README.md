@@ -3,7 +3,7 @@ The code is to launch multiple ec2 instances in different environments with diff
 type
 
 we have 3 different files here,
-1.Main-ec2-type-region  - 
+1.Map-ec2-type-region.tf  - 
 contains code to lauch multiple ec2 instances as per the region AMI and instance type
 
 2.Map-variables - 
